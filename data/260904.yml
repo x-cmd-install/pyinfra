@@ -7,7 +7,7 @@ about:
   head: c2b3569
   archived: false
   latestVersion: v3.10.0
-  collectedAt: 2026-09-04T19:57:32Z
+  collectedAt: 2026-09-04T20:43:05Z
 timeline:
   created: 2014-10-19
   lastCommit: 2026-08-31
@@ -83,5 +83,63 @@ total:
   openIssue: 130
   commit: 4548
 ---
+path: /home/runner/.x-repo/github.com/pyinfra-dev/pyinfra
+collectedAt: 2026-09-04T20:43:07Z
+loc:
+  Python:
+    code: 35678
+    comments: 1867
+    blanks: 8037
+    files: 249
+  Json:
+    code: 28155
+    comments: 0
+    blanks: 19
+    files: 1418
+  Yaml:
+    code: 1117
+    comments: 5
+    blanks: 0
+    files: 103
+  Toml:
+    code: 734
+    comments: 23
+    blanks: 127
+    files: 3
+  Css:
+    code: 417
+    comments: 72
+    blanks: 77
+    files: 1
+  Sh:
+    code: 115
+    comments: 17
+    blanks: 50
+    files: 9
+  Html:
+    code: 107
+    comments: 6
+    blanks: 14
+    files: 4
+  Jinja2:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2442
+    blanks: 1086
+    files: 40
+  Text:
+    code: 0
+    comments: 445
+    blanks: 0
+    files: 1
+total:
+  code: 66785
+  comments: 4929
+  blanks: 9490
+  files: 1829
 ---
 
