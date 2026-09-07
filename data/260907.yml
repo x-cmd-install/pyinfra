@@ -5,18 +5,18 @@ about:
   head: c2b3569
   archived: false
   latestVersion: "v3.10.0"
-  collectedAt: 2026-09-07T05:28:03Z
+  collectedAt: 2026-09-07T19:03:22Z
 timeline:
   created: 2014-10-19
   lastCommit: 2026-08-31
   lastRelease: 2026-07-27
 popularity:
-  star: 5979
+  star: 5980
   watcher: 39
   fork: 539
   release: 119
   contributor: 206
-  pullRequest: 863
+  pullRequest: 864
   issue: 992
 language:
   Python: 1426569
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 9
-    openPR: 12
+    openPR: 13
     closedIssue: 2
     openIssue: 7
     commit: 15
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 24
-    openPR: 24
+    openPR: 25
     closedIssue: 9
     openIssue: 13
     commit: 24
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 65
-    openPR: 31
+    openPR: 32
     closedIssue: 22
     openIssue: 23
     commit: 54
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 171
-    openPR: 46
+    openPR: 47
     closedIssue: 60
     openIssue: 36
     commit: 196
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 9
     mergedPR: 240
-    openPR: 49
+    openPR: 50
     closedIssue: 92
     openIssue: 46
     commit: 279
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 16
     mergedPR: 348
-    openPR: 49
+    openPR: 50
     closedIssue: 158
     openIssue: 73
     commit: 471
 total:
   release: 119
   mergedPR: 705
-  openPR: 49
+  openPR: 50
   closedIssue: 859
   openIssue: 133
   commit: 4548
 ---
 path: /home/runner/.x-repo/github.com/pyinfra-dev/pyinfra
-collectedAt: 2026-09-07T05:28:05Z
+collectedAt: 2026-09-07T19:03:24Z
 loc:
   Python:
     code: 35678
@@ -143,7 +143,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:28:06+00:00
+  collectedAt: 2026-09-07T19:03:25+00:00
   platform:
     darwin/arm64:
       name:  null
