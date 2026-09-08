@@ -5,7 +5,7 @@ about:
   head: c2b3569
   archived: false
   latestVersion: "v3.10.0"
-  collectedAt: 2026-09-08T02:36:06Z
+  collectedAt: 2026-09-08T05:24:26Z
 timeline:
   created: 2014-10-19
   lastCommit: 2026-08-31
@@ -82,7 +82,7 @@ total:
   commit: 4548
 ---
 path: /home/runner/.x-repo/github.com/pyinfra-dev/pyinfra
-collectedAt: 2026-09-08T02:36:10Z
+collectedAt: 2026-09-08T05:24:28Z
 loc:
   Python:
     code: 35678
