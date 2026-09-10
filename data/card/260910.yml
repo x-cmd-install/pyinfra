@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.10.0"
   latestRelease: "v3.10.0"
   latestPrerelease: "v3.0.beta2"
-  collectedAt: 2026-09-10T20:44:45Z
+  collectedAt: 2026-09-10T23:06:22Z
 timeline:
   created: 2014-10-19
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-27
   lastPrerelease: 2024-06-08
 popularity:
-  star: 5983
+  star: 5984
   watcher: 39
   fork: 541
   release: 119
@@ -86,7 +86,7 @@ total:
   commit: 4550
 ---
 path: /home/runner/.x-repo/github.com/pyinfra-dev/pyinfra
-collectedAt: 2026-09-10T20:44:52Z
+collectedAt: 2026-09-10T23:06:24Z
 loc:
   Python:
     code: 35832
