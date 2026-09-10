@@ -37,7 +37,7 @@ Total: **66,480** lines of code across **1774** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,983 · **Forks**: 541 · **Open issues**: 993 · **Contributors**: 207
+- **Stars**: 5,984 · **Forks**: 541 · **Open issues**: 993 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -72,4 +72,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:06:28Z._
