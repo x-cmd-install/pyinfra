@@ -1,0 +1,135 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: pyinfra
+  binname: pyinfra
+  visiblename: pyinfra
+  version: 3.3.1
+  origversion: 3.3.1-r0
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: pyinfra
+  binname: pyinfra-pyc
+  visiblename: pyinfra-pyc
+  version: 3.3.1
+  origversion: 3.3.1-r0
+  status: outdated
+  summary: Precompiled Python bytecode for pyinfra
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: aur
+  srcname: pyinfra
+  binname: pyinfra
+  visiblename: pyinfra
+  version: 3.10.0
+  origversion: 3.10.0-1
+  status: newest
+  summary: Automate infrastructure super fast at massive scale
+  maintainers:
+    - xiota@aur
+    - chaotic-aur@aur
+  licenses:
+    - MIT
+- repo: macports
+  srcname: sysutils/pyinfra
+  binname: pyinfra
+  visiblename: pyinfra
+  version: "3.6"
+  origversion: null
+  status: outdated
+  summary: pyinfra automates infrastructure super fast at massive scale.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: 2.9.2
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: 3.1.1
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: "3.2"
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: 3.8.0
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: pyinfra
+  visiblename: pyinfra
+  version: 3.9.2
+  origversion: null
+  status: outdated
+  summary: Python-based infrastructure automation
+  maintainers:
+    - r@sliwi.org
+    - git@thym.at
+  licenses:
+    - MIT
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: pyinfra
+  binnames:
+    - pyinfra
+  visiblename: pyinfra
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: outdated
+  maintainers:
+    - python-apps-team@lists.alioth.debian.org
+    - stender@debian.org
+    - tobald@debian.org
+  categories:
+    - universe/misc
