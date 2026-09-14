@@ -37,31 +37,22 @@ Total: **67,991** lines of code across **1820** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,990 · **Forks**: 541 · **Open issues**: 994 · **Contributors**: 211
+- **Stars**: 5,992 · **Forks**: 543 · **Open issues**: 994 · **Contributors**: 211
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 721 · **Open PRs**: 38 · **Closed issues**: 868 · **Open issues**: 126 · **Commits**: 4566
+- **Releases**: 119 · **Merged PRs**: 721 · **Open PRs**: 39 · **Closed issues**: 870 · **Open issues**: 124 · **Commits**: 4566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 19 | 9 | 5 | 6 | 23 |
-| last60d | 2026-07-15 | 1 | 30 | 16 | 11 | 9 | 36 |
-| 90d | 2026-06-15 | 1 | 55 | 22 | 22 | 16 | 68 |
-| last180d | 2026-03-17 | 5 | 174 | 36 | 62 | 30 | 200 |
-| 360d | 2025-09-18 | 9 | 252 | 38 | 98 | 42 | 291 |
-| last720d | 2024-09-23 | 16 | 361 | 38 | 161 | 68 | 489 |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/pyinfra). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.9.2` | ⚠️ outdated |
-| Alpine edge | `3.3.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 13 | 10 | 6 | 5 | 23 |
+| last60d | 2026-07-16 | 1 | 30 | 17 | 12 | 8 | 36 |
+| 90d | 2026-06-16 | 1 | 54 | 23 | 24 | 12 | 68 |
+| last180d | 2026-03-18 | 5 | 172 | 37 | 64 | 28 | 200 |
+| 360d | 2025-09-19 | 9 | 252 | 39 | 100 | 40 | 291 |
+| last720d | 2024-09-24 | 16 | 361 | 39 | 163 | 66 | 489 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:41:04Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:50:08Z._
