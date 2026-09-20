@@ -4,7 +4,7 @@
 
 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 
-![pyinfra](https://repo.x-cmd.io/pyinfra.svg)
+[![x-cmd/install — pyinfra Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pyinfra.svg)](https://x-cmd.com/install/pyinfra)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **68,159** lines of code across **1827** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,000 · **Forks**: 547 · **Open issues**: 996 · **Contributors**: 212
+- **Stars**: 6,009 · **Forks**: 548 · **Open issues**: 996 · **Contributors**: 212
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **68,159** lines of code across **1827** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 13 | 11 | 5 | 7 | 26 |
-| last60d | 2026-07-20 | 1 | 31 | 15 | 13 | 8 | 39 |
-| 90d | 2026-06-20 | 1 | 53 | 21 | 23 | 12 | 71 |
-| last180d | 2026-03-22 | 5 | 172 | 35 | 62 | 27 | 203 |
-| 360d | 2025-09-23 | 9 | 252 | 37 | 100 | 40 | 294 |
-| last720d | 2024-09-28 | 15 | 363 | 37 | 164 | 65 | 481 |
+| 30d | 2026-08-21 | 0 | 13 | 11 | 5 | 7 | 26 |
+| last60d | 2026-07-22 | 1 | 30 | 15 | 13 | 7 | 39 |
+| 90d | 2026-06-22 | 1 | 51 | 20 | 22 | 11 | 71 |
+| last180d | 2026-03-24 | 5 | 169 | 35 | 62 | 27 | 203 |
+| 360d | 2025-09-25 | 9 | 247 | 37 | 100 | 39 | 294 |
+| last720d | 2024-09-30 | 15 | 363 | 37 | 164 | 65 | 481 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:44:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:24Z._
