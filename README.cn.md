@@ -4,7 +4,7 @@
 
 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 
-[![x-cmd/install — pyinfra Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pyinfra.svg?lang=zh)](https://x-cmd.com/install/pyinfra)
+[![x-cmd/install — pyinfra Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pyinfra.svg?lang=zh)](https://x-cmd.com/install/pyinfra)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install pyinfra
 
 ## 代码洞察
 
-合计: **68,516** 行代码（覆盖前 5 种语言、共 **1844** 个文件）。
+合计: **68,783** 行代码（覆盖前 5 种语言、共 **1849** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 36,598 | 1,908 | 8,200 | 249 |
-| Json | 27,911 | 0 | 18 | 1399 |
+| Python | 36,778 | 1,913 | 8,234 | 249 |
+| Json | 27,998 | 0 | 18 | 1404 |
 | Yaml | 2,631 | 25 | 0 | 192 |
 | Toml | 734 | 23 | 127 | 3 |
 | Css | 417 | 72 | 77 | 1 |
@@ -33,26 +33,26 @@ x install pyinfra
 ## 发布
 
 - **最新版本**: `v3.10.0` (2026-07-27)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 6,010 · **Fork**: 549 · **开放 issue**: 997 · **贡献者**: 212
+- **Star**: 6,010 · **Fork**: 549 · **开放 issue**: 998 · **贡献者**: 214
 
 ## 累计统计
 
-- **发布数**: 119 · **已合并 PR**: 726 · **开放 PR**: 37 · **已关闭 issue**: 872 · **开放 issue**: 125 · **提交数**: 4571
+- **发布数**: 119 · **已合并 PR**: 730 · **开放 PR**: 35 · **已关闭 issue**: 876 · **开放 issue**: 122 · **提交数**: 4575
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 12 | 5 | 7 | 23 |
-| last60d | 2026-07-24 | 1 | 31 | 14 | 13 | 8 | 37 |
-| 90d | 2026-06-24 | 1 | 51 | 21 | 21 | 12 | 72 |
-| last180d | 2026-03-26 | 5 | 170 | 35 | 62 | 28 | 201 |
-| 360d | 2025-09-27 | 9 | 248 | 37 | 100 | 40 | 288 |
-| last720d | 2024-10-02 | 15 | 365 | 37 | 164 | 66 | 483 |
+| 30d | 2026-08-24 | 0 | 17 | 10 | 6 | 6 | 27 |
+| last60d | 2026-07-25 | 1 | 33 | 13 | 14 | 8 | 41 |
+| 90d | 2026-06-25 | 1 | 55 | 19 | 23 | 11 | 76 |
+| last180d | 2026-03-27 | 5 | 174 | 33 | 63 | 26 | 205 |
+| 360d | 2025-09-28 | 9 | 252 | 35 | 103 | 38 | 292 |
+| last720d | 2024-10-03 | 15 | 369 | 35 | 167 | 64 | 487 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ pyinfra 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:49:35Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:07:08Z._
