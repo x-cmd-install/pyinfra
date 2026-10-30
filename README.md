@@ -14,13 +14,13 @@ x install pyinfra
 
 ## Code insight
 
-Total: **70,813** lines of code across **1908** files in the top 5 languages.
+Total: **70,887** lines of code across **1912** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 38,092 | 2,009 | 8,568 | 252 |
+| Python | 38,096 | 2,013 | 8,569 | 252 |
 | Json | 28,055 | 0 | 18 | 1406 |
-| Yaml | 3,291 | 30 | 0 | 246 |
+| Yaml | 3,361 | 31 | 0 | 250 |
 | Toml | 733 | 23 | 127 | 3 |
 | Css | 417 | 72 | 77 | 1 |
 
@@ -37,22 +37,22 @@ Total: **70,813** lines of code across **1908** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,055 · **Forks**: 560 · **Open issues**: 1,012 · **Contributors**: 220
+- **Stars**: 6,059 · **Forks**: 560 · **Open issues**: 1,013 · **Contributors**: 221
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 759 · **Open PRs**: 50 · **Closed issues**: 896 · **Open issues**: 116 · **Commits**: 4604
+- **Releases**: 119 · **Merged PRs**: 760 · **Open PRs**: 51 · **Closed issues**: 897 · **Open issues**: 116 · **Commits**: 4605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 18 | 22 | 3 | 9 | 29 |
-| last60d | 2026-08-30 | 0 | 40 | 26 | 12 | 13 | 55 |
-| 90d | 2026-07-31 | 0 | 59 | 28 | 19 | 14 | 70 |
-| last180d | 2026-05-02 | 5 | 156 | 44 | 60 | 28 | 185 |
-| 360d | 2025-11-03 | 8 | 271 | 49 | 104 | 38 | 311 |
-| last720d | 2024-11-08 | 15 | 386 | 50 | 180 | 59 | 516 |
+| 30d | 2026-09-30 | 0 | 19 | 23 | 4 | 9 | 30 |
+| last60d | 2026-08-31 | 0 | 39 | 27 | 13 | 13 | 56 |
+| 90d | 2026-08-01 | 0 | 60 | 29 | 20 | 14 | 71 |
+| last180d | 2026-05-03 | 5 | 155 | 45 | 61 | 27 | 186 |
+| 360d | 2025-11-04 | 8 | 272 | 50 | 105 | 38 | 312 |
+| last720d | 2024-11-09 | 15 | 387 | 51 | 181 | 59 | 517 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:31:02Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:40:00Z._
