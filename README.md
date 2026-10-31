@@ -37,22 +37,22 @@ Total: **70,887** lines of code across **1912** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,059 · **Forks**: 560 · **Open issues**: 1,013 · **Contributors**: 221
+- **Stars**: 6,060 · **Forks**: 562 · **Open issues**: 1,013 · **Contributors**: 221
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 760 · **Open PRs**: 51 · **Closed issues**: 897 · **Open issues**: 116 · **Commits**: 4605
+- **Releases**: 119 · **Merged PRs**: 760 · **Open PRs**: 53 · **Closed issues**: 897 · **Open issues**: 116 · **Commits**: 4605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 19 | 23 | 4 | 9 | 30 |
-| last60d | 2026-08-31 | 0 | 39 | 27 | 13 | 13 | 56 |
-| 90d | 2026-08-01 | 0 | 60 | 29 | 20 | 14 | 71 |
-| last180d | 2026-05-03 | 5 | 155 | 45 | 61 | 27 | 186 |
-| 360d | 2025-11-04 | 8 | 272 | 50 | 105 | 38 | 312 |
-| last720d | 2024-11-09 | 15 | 387 | 51 | 181 | 59 | 517 |
+| 30d | 2026-10-01 | 0 | 19 | 25 | 4 | 9 | 30 |
+| last60d | 2026-09-01 | 0 | 39 | 29 | 13 | 12 | 56 |
+| 90d | 2026-08-02 | 0 | 60 | 31 | 20 | 14 | 71 |
+| last180d | 2026-05-04 | 5 | 153 | 47 | 61 | 27 | 186 |
+| 360d | 2025-11-05 | 8 | 272 | 52 | 105 | 38 | 312 |
+| last720d | 2024-11-10 | 15 | 387 | 53 | 181 | 59 | 517 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:40:00Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:27:30Z._
