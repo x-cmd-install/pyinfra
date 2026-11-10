@@ -1,7 +1,7 @@
-- repo: nix_stable_25_05
+- repo: nix_stable_24_05
   srcname: pyinfra
   visiblename: pyinfra
-  version: "3.2"
+  version: 2.9.2
   origversion: null
   status: outdated
   summary: Python-based infrastructure automation
@@ -9,10 +9,10 @@
     - git@thym.at
   licenses:
     - MIT
-- repo: nix_stable_25_11
+- repo: nix_stable_24_11
   srcname: pyinfra
   visiblename: pyinfra
-  version: 3.4.1
+  version: 3.1.1
   origversion: null
   status: outdated
   summary: Python-based infrastructure automation
@@ -50,8 +50,8 @@
   srcname: pyinfra
   binname: pyinfra
   visiblename: pyinfra
-  version: 3.10.0
-  origversion: 3.10.0-1
+  version: 3.11.0
+  origversion: 3.11.0-1
   status: newest
   summary: Automate infrastructure super fast at massive scale
   maintainers:
@@ -63,7 +63,7 @@
   srcname: sysutils/pyinfra
   binname: pyinfra
   visiblename: pyinfra
-  version: 3.10.0
+  version: 3.11.0
   origversion: null
   status: newest
   summary: pyinfra automates infrastructure super fast at massive scale.
@@ -73,10 +73,10 @@
     - MIT
   categories:
     - sysutils
-- repo: nix_stable_24_05
+- repo: nix_stable_25_05
   srcname: pyinfra
   visiblename: pyinfra
-  version: 2.9.2
+  version: "3.2"
   origversion: null
   status: outdated
   summary: Python-based infrastructure automation
@@ -84,10 +84,10 @@
     - git@thym.at
   licenses:
     - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_11
   srcname: pyinfra
   visiblename: pyinfra
-  version: 3.1.1
+  version: 3.4.1
   origversion: null
   status: outdated
   summary: Python-based infrastructure automation
