@@ -28,8 +28,8 @@
   srcname: pyinfra
   binname: pyinfra
   visiblename: pyinfra
-  version: 3.11.0
-  origversion: 3.11.0-1
+  version: 3.11.1
+  origversion: 3.11.1-1
   status: newest
   summary: Automate infrastructure super fast at massive scale
   maintainers:
@@ -43,7 +43,7 @@
   visiblename: pyinfra
   version: 3.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: pyinfra automates infrastructure super fast at massive scale.
   maintainers:
     - herbygillot@github
