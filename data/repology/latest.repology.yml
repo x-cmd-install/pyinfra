@@ -41,9 +41,9 @@
   srcname: sysutils/pyinfra
   binname: pyinfra
   visiblename: pyinfra
-  version: 3.11.0
+  version: 3.11.1
   origversion: null
-  status: outdated
+  status: newest
   summary: pyinfra automates infrastructure super fast at massive scale.
   maintainers:
     - herbygillot@github
