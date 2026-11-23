@@ -37,26 +37,26 @@ Total: **73,009** lines of code across **1971** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,116 · **Forks**: 561 · **Open issues**: 1,038 · **Contributors**: 229
+- **Stars**: 6,120 · **Forks**: 563 · **Open issues**: 1,039 · **Contributors**: 229
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 795 · **Open PRs**: 46 · **Closed issues**: 916 · **Open issues**: 122 · **Commits**: 4645
+- **Releases**: 122 · **Merged PRs**: 795 · **Open PRs**: 48 · **Closed issues**: 916 · **Open issues**: 123 · **Commits**: 4645
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 27 | 11 | 11 | 20 | 40 |
-| last60d | 2026-09-23 | 3 | 57 | 26 | 16 | 24 | 70 |
-| 90d | 2026-08-24 | 3 | 78 | 29 | 27 | 25 | 97 |
-| last180d | 2026-05-26 | 7 | 156 | 42 | 62 | 33 | 182 |
-| 360d | 2025-11-27 | 11 | 306 | 46 | 118 | 48 | 349 |
-| last720d | 2024-12-02 | 18 | 417 | 46 | 194 | 67 | 526 |
+| 30d | 2026-10-24 | 3 | 27 | 13 | 11 | 21 | 0 |
+| last60d | 2026-09-24 | 3 | 57 | 28 | 16 | 25 | 0 |
+| 90d | 2026-08-25 | 3 | 75 | 31 | 27 | 26 | 0 |
+| last180d | 2026-05-27 | 7 | 155 | 43 | 61 | 34 | 0 |
+| 360d | 2025-11-28 | 11 | 306 | 48 | 116 | 49 | 0 |
+| last720d | 2024-12-03 | 18 | 417 | 48 | 194 | 68 | 526 |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/pyinfra). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/pyinfra). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -72,4 +72,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:25:43Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:30:24Z._
