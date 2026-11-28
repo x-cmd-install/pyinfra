@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.11.2"
   latestRelease: "v3.11.2"
   latestPrerelease: "v3.0.beta2"
-  collectedAt: 2026-11-27T09:58:35Z
+  collectedAt: 2026-11-28T08:46:49Z
 timeline:
   created: 2014-10-19
   lastCommit: 2026-11-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-20
   lastPrerelease: 2024-06-08
 popularity:
-  star: 6125
+  star: 6126
   watcher: 39
   fork: 569
   release: 122
   contributor: 232
-  pullRequest: 981
+  pullRequest: 982
   issue: 1042
 language:
   Python: 1610948
@@ -30,23 +30,23 @@ language:
 totalBytes: 1623803
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 3
-    mergedPR: 31
-    openPR: 16
-    closedIssue: 14
-    openIssue: 18
+    mergedPR: 30
+    openPR: 15
+    closedIssue: 12
+    openIssue: 17
     commit: 45
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
-    mergedPR: 60
+    mergedPR: 55
     openPR: 32
     closedIssue: 20
-    openIssue: 23
+    openIssue: 22
     commit: 75
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 78
     openPR: 35
@@ -54,15 +54,15 @@ recent:
     openIssue: 25
     commit: 102
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 7
     mergedPR: 160
     openPR: 48
-    closedIssue: 65
+    closedIssue: 63
     openIssue: 33
     commit: 187
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 11
     mergedPR: 307
     openPR: 53
@@ -70,7 +70,7 @@ recent:
     openIssue: 48
     commit: 354
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 18
     mergedPR: 422
     openPR: 53
@@ -86,7 +86,7 @@ total:
   commit: 4650
 ---
 path: /home/runner/.x-repo/github.com/pyinfra-dev/pyinfra
-collectedAt: 2026-11-27T09:58:38Z
+collectedAt: 2026-11-28T08:46:51Z
 loc:
   Python:
     code: 39717
