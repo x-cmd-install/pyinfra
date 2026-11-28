@@ -37,7 +37,7 @@ Total: **73,257** lines of code across **1985** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,125 · **Forks**: 569 · **Open issues**: 1,042 · **Contributors**: 232
+- **Stars**: 6,126 · **Forks**: 569 · **Open issues**: 1,042 · **Contributors**: 232
 
 ## Totals (cumulative)
 
@@ -47,12 +47,21 @@ Total: **73,257** lines of code across **1985** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 31 | 16 | 14 | 18 | 45 |
-| last60d | 2026-09-28 | 3 | 60 | 32 | 20 | 23 | 75 |
-| 90d | 2026-08-29 | 3 | 78 | 35 | 30 | 25 | 102 |
-| last180d | 2026-05-31 | 7 | 160 | 48 | 65 | 33 | 187 |
-| 360d | 2025-12-02 | 11 | 307 | 53 | 120 | 48 | 354 |
-| last720d | 2024-12-07 | 18 | 422 | 53 | 198 | 67 | 531 |
+| 30d | 2026-10-29 | 3 | 30 | 15 | 12 | 17 | 45 |
+| last60d | 2026-09-29 | 3 | 55 | 32 | 20 | 22 | 75 |
+| 90d | 2026-08-30 | 3 | 78 | 35 | 30 | 25 | 102 |
+| last180d | 2026-06-01 | 7 | 160 | 48 | 63 | 33 | 187 |
+| 360d | 2025-12-03 | 11 | 307 | 53 | 120 | 48 | 354 |
+| last720d | 2024-12-08 | 18 | 422 | 53 | 198 | 67 | 531 |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/pyinfra). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.9.2` | ⚠️ outdated |
+| Alpine edge | `3.3.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for pyinfra lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:58:57Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:46:57Z._
